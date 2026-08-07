@@ -50,22 +50,19 @@ The results indicate a **very strong positive linear relationship** between the 
 
 ### Distribution of Plasma Volume Measurements
 
-![Distribution](figures/plasma_distribution.png)
+![Distribution](Figures/plasma_distribution.png)
 
 ### Plasma Volume Measurements by Method
 
-![Boxplot](figures/plasma_boxplot.png)
+![Boxplot](Figures/plasma_boxplot.png)
 
 ### Hurley vs. Nadler Measurements
 
-![Scatter Plot](figures/hurley_vs_nadler_scatter.png)
+![Scatter Plot](Figures/hurley_vs_nadler_scatter.png)
 
 ### Bootstrap Distribution of the Pearson Correlation Coefficient
 
-![Bootstrap Distribution](figures/bootstrap_distribution.png)
-
----
-
+![Bootstrap Distribution](Figures/bootstrap_distribution.png)
 ## Technologies Used
 
 - Python
